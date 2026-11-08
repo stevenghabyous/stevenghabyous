@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Steven 👋
 
-<!--
-**stevenghabyous/stevenghabyous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master of Financial Mathematics student at **NC State University** (graduating December 2027), focused on quantitative research, systematic trading, and the intersection of AI and finance.
 
-Here are some ideas to get you started:
+### What I'm working on
+- **Multi-agent LLM research:** studying how the structure of an LLM investment team affects portfolio decisions, and testing whether DSPy prompt optimization helps a CIO agent read specialist reports more faithfully
+- **Systematic FX trading:** part of a graduate team building and validating trading strategies with walk-forward testing, Monte Carlo noise benchmarks, and transaction cost modeling
+- **Credit risk modeling:** probability of default models with logistic regression and XGBoost
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+Python (pandas, NumPy, scikit-learn, XGBoost, LightGBM, DSPy) · SQL · R · Git · MetaTrader 5
+
+### Currently
+Looking for a **Summer 2027** internship in quantitative research, trading, or risk.
+
+📫 [LinkedIn](https://linkedin.com/in/steven-ghabyous) · steven.ghabyous2005@gmail.com
